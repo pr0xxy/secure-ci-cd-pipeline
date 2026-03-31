@@ -1,6 +1,10 @@
 ![CI](https://github.com/pr0xxy/secure-ci-cd-pipeline/actions/workflows/ci.yml/badge.svg)
 
 # 🔐 Secure CI/CD Pipeline (DevSecOps)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-green)
+![Security](https://img.shields.io/badge/Security-SAST-red)
 
 ## 📌 Overview
 
