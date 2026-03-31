@@ -80,3 +80,10 @@ The application is containerized using a lightweight Python image.
 * Integrate OIDC authentication
 * Deploy to cloud (Azure / AWS)
 
+---
+
+## 🔗 Related Projects
+
+- [Enterprise Docker Library](https://github.com/pr0xxy/enterprise-docker-library)
+
+This project uses hardened container practices demonstrated in the Enterprise Docker Library.
