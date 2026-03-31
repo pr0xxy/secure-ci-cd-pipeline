@@ -23,6 +23,7 @@ It integrates security scanning, automated builds, and CI/CD best practices.
 ## 🏗️ Architecture
 
 Developer → Push Code → GitHub Actions → Security Scans → Docker Build
+[View Pipeline Diagram](diagram.md)
 
 ---
 
