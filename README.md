@@ -1,3 +1,5 @@
+![CI](https://github.com/pr0xxy/secure-ci-cd-pipeline/actions/workflows/ci.yml/badge.svg)
+
 # 🔐 Secure CI/CD Pipeline (DevSecOps)
 
 ## 📌 Overview
